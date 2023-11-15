@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **Intermediate CSS, Responsive Web Design, React.js**
 
-- 👨‍💻 Check out my portfolio, you can see some of my projects here : [eligiobautista.site(eligiobautista.site)]
+- 👨‍💻 Check out my portfolio, you can see some of my projects here : [eligiobautista.site](eligiobautista.site)
 
 - 📫 You can reach me via email here : **it.elibautista@gmail.com**
 

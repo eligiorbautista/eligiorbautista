@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eligiorbautista&label=Profile%20views&color=0e75b6&style=flat" alt="eligiorbautista" /> </p>
 
-- 🌱 I’m currently learning : **Intermediate CSS, Responsive Web Design, Vue.js**
+<!-- - 🌱 I’m currently learning : **Intermediate CSS, Responsive Web Design, Vue.js** -->
 
 - 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.site](https://eligiobautista.site)
 

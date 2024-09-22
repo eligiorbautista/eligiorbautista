@@ -5,9 +5,9 @@
 
 <!-- - 🌱 I’m currently learning : **Intermediate CSS, Responsive Web Design, Vue.js** -->
 
-- 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.site](https://eligiobautista.site)
+- 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.vercel.app/](https://eligiobautista.vercel.app/)
 
-- 📫 You can reach me via email here : **it.elibautista@gmail.com**
+- 📫 You can reach me via email here : **dev.elibautista@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

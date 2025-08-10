@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli Bautista</h1>
-<h3 align="center">An aspiring full stack web developer from the Philippines.</h3>
+<h3 align="center">Web developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eligiorbautista&label=Profile%20views&color=0e75b6&style=flat" alt="eligiorbautista" /> </p>
 

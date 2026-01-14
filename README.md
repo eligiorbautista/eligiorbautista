@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning : **Intermediate CSS, Responsive Web Design, Vue.js** -->
 
-- 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.dev](https://eligiobautista.dev)
+- 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.dev](https://eligiobautista.vercel.app)
 
 - 📫 You can reach me via email here : **dev.elibautista@gmail.com**
 

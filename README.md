@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my portfolio, you can see some of my projects here : [https://eligiobautista.vercel.app](https://eligiobautista.vercel.app)
 
-- 📫 You can reach me via email here : **dev.elibautista@gmail.com**
+- 📫 You can reach me via email here : **eligiobautista.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
